@@ -1,0 +1,36 @@
+Restaurant_Name,Rating,Number_of_Reviews,Cost_for_Two,Cuisines,Locality,Restaurant_Type,Delivery_Time
+Anna Idli,4.6,2100,200,"South Indian, Sandwich",College Road,Cloud Kitchen,30-40 min
+Madhur Sweets,4.5,3200,250,"Sweets, Snacks",College Road,Cloud Kitchen,30-40 min
+Tales & Spirits,4.5,717,800,"Indian, Italian",College Road,Cloud Kitchen,30-35 min
+King Momos Center,4.3,200,400,"Fast Food, Momos",College Road,Cloud Kitchen,20-25
+M2H Shawarma Rolls & Wraps,4.2,2700,500,"Rolls, Wraps",College Road,Cloud Kitchen,30-35 min
+Viju's Dabeli,4,200,200,Street Food,College Road,Cloud Kitchen,30-35
+Biryani Express Inn,3.4,36,500,Biryani,College Road,Cloud Kitchen,40-45
+Pizza Hut,4.3,8400,300,Pizza,College Road,Cloud Kitchen,20-25 min
+Domo's Cafe,5,900,500,"Continental, Middle Eastern",College Road,Dine-In,30-35
+Baker's Emporium,4.7,50,300,"Continental, Italian",College Road,Dine-In,20-25
+The Waffle Tree,4.7,103,200,"Fast Food, Waffles",College Road,Dine-In,40-45
+Al Arabian Express,4.6,16000,500,Arabian,College Road,Dine-In,30-35 min
+Sagar Sweet,4.6,3300,250,Sweets,College Road,Dine-In,20-25 min
+Theobroma,4.6,2900,400,"Bakery, Desserts",College Road,Dine-In,20-25 min
+Jaspers Indian Soulfood,4.5,1000,400,"Continental, American",College Road,Dine-In,40-45
+Luscious Layers,4.4,10000,350,"Desserts, Cakes",College Road,Dine-In,30-35 min
+McDonald's,4.4,2800,400,Fast Food,College Road,Dine-In,35-40 min
+Tamayo The Restro Cafe,4.4,300,600,"Continental, Beverages",College Road,Dine-In,20-25
+Caffeine Nova,4.3,176,700,"Beverages, Continental",College Road,Dine-In,40-45
+Lariff Kitchen & Cocktails,4.3,1400,1400,North Indian,College Road,Dine-In,20-25
+The Lolo Cafe,4.3,162,500,"Italian, South Indian",College Road,Dine-In,30-35
+Oven Story Pizza,4.2,9300,400,"Pizza, Pasta",College Road,Dine-In,35-40 min
+Renaissance Cafe,4.2,3000,500,"North Indian, South Indian",College Road,Dine-In,40-45
+Cafe Coffee Day,4.1,1000,1000,Fast Food,College Road,Dine-In,20-25
+KFC,4.1,9700,400,Fast Food,College Road,Dine-In,25-30 min
+Airbar,4,1000,1000,"North Indian, South Indian",College Road,Dine-In,40-45
+Banjos The Food Chain,4,400,350,"Fast Food, Finger Food",College Road,Dine-In,40-45
+Hotel Wansh,4,800,500,Middle Eastern,College Road,Dine-In,30-35
+Junior's Kitchen,4,700,600,"Asian, Italian",College Road,Dine-In,20-25
+Tushar Food Hub,4,9200,300,"Maharashtrian, Chinese",College Road,Dine-In,30-35 min
+Domino's Pizza,3.9,9200,700,"Pizza, Italian",College Road,Dine-In,20-25 min
+The Woodfired Eatery,3.9,500,500,Fast Food,College Road,Dine-In,20-25
+Flavor Oasis,3.8,300,500,"Chinese, North Indian",College Road,Dine-In,40-45
+Lazeez Darbar,3.7,200,600,"North Indian, Middle Eastern",College Road,Dine-In,30-35
+Amritsari Haveli,3.2,124,1400,"North Indian, Continental",College Road,Dine-In,20-25

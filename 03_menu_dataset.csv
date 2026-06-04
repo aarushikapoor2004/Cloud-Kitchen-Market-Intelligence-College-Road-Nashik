@@ -1,0 +1,51 @@
+Restaurant_Name,Category,Item_Name,Price_INR,Is_Bestseller
+KFC,Burgers,Zinger Burger,249,1
+KFC,Burgers,Crunch Burger,199,0
+KFC,Burgers,Tower Burger,349,0
+KFC,Chicken Snacks,Hot & Crispy Chicken (2 pcs),299,0
+KFC,Chicken Snacks,Popcorn Chicken (Regular),179,0
+KFC,Chicken Snacks,Chicken Strips (3 pcs),249,0
+KFC,Rice & Bowls,Chicken Rice Bowl,249,0
+KFC,Combos,Zinger Burger + Fries + Pepsi (M),429,0
+KFC,Beverages,Pepsi (Large),89,0
+KFC,Desserts,Chocolate Mousse Cake,99,0
+McDonald's,Burgers,McAloo Tikki Burger,49,1
+McDonald's,Burgers,McSpicy Paneer Burger,199,0
+McDonald's,Burgers,McSpicy Chicken Burger,219,0
+McDonald's,Burgers,Big Mac (Chicken),249,0
+McDonald's,McSavers,Small Fries,49,0
+McDonald's,Wraps,Chicken Mexican McWrap,219,0
+McDonald's,Sides & Fries,Medium Fries,89,0
+McDonald's,Sides & Fries,Piri Piri Sprinkled Fries (M),129,0
+McDonald's,McCafé,Cappuccino (Medium),179,0
+McDonald's,Happy Meals,McAloo Tikki Happy Meal,199,0
+Pizza Hut,Pizzas,Margherita (Medium),249,0
+Pizza Hut,Pizzas,Chicken Tikka Pizza (Medium),449,1
+Pizza Hut,Pizzas,Veggie Paradise Pizza (Medium),379,0
+Pizza Hut,Pizzas,Non-Veg Supreme Pizza (Large),699,0
+Pizza Hut,Pizzas,Farmhouse Pizza (Medium),399,0
+Pizza Hut,Pastas,Penne Arrabiata,229,0
+Pizza Hut,Sides,Garlic Breadsticks (4 pcs),149,0
+Pizza Hut,Sides,Stuffed Garlic Bread,229,0
+Pizza Hut,Beverages,Pepsi (1.25 L),109,0
+Pizza Hut,Desserts,Choco Lava Cake,149,0
+Oven Story Pizza,Signature Pizzas,Sausage Party Pizza (Medium),549,1
+Oven Story Pizza,Signature Pizzas,Spicy Margherita (Medium),399,0
+Oven Story Pizza,Signature Pizzas,The Mexican Chicken (Medium),529,0
+Oven Story Pizza,Classic Pizzas,Margherita (Medium),299,0
+Oven Story Pizza,Classic Pizzas,Farmhouse Veggie (Medium),449,0
+Oven Story Pizza,Pastas,Arrabbiata Penne,249,0
+Oven Story Pizza,Pastas,Creamy Mushroom Pasta,279,0
+Oven Story Pizza,Garlic Breads,Herb & Cheese Garlic Bread,179,0
+Oven Story Pizza,Beverages,Cold Coffee (Regular),129,0
+Oven Story Pizza,Combos,2 Medium Pizzas + Garlic Bread Combo,999,0
+Theobroma,Brownies & Cookies,Chocolate Brownie (1 pc),99,1
+Theobroma,Cakes & Slices,Chocolate Truffle Cake Slice,199,0
+Theobroma,Cakes & Slices,Red Velvet Cake Slice,219,0
+Theobroma,Cakes & Slices,Blueberry Cheesecake Slice,249,0
+Theobroma,Pastries,Almond Croissant,149,0
+Theobroma,Pastries,Pain au Chocolat,159,0
+Theobroma,Breads & Croissants,Plain Croissant,109,0
+Theobroma,Hot Beverages,Café Latte (Regular),179,0
+Theobroma,Hot Beverages,Hot Chocolate (Regular),189,0
+Theobroma,Cold Beverages,Iced Caramel Latte,219,0
