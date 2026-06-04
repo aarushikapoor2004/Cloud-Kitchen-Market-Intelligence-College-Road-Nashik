@@ -1,6 +1,4 @@
 # Cloud Kitchen Market Intelligence — College Road, Nashik
-
-> Data analytics internship assessment project  
 > Data sourced from Swiggy / Zomato · June 2026
 
 ---
